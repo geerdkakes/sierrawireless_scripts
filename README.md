@@ -11,3 +11,7 @@ To run the script use:
 ```
 ./monitor_sierra.sh | tee ./logoutput.txt
 ```
+
+to get more frequent log output, change the timeout to a lower value.
+
+To do: add a timestamp before all log output and record every few seconds.
